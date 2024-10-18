@@ -1,1 +1,1 @@
-# ConsoleApp3# bones
+# bones - a strange C# example on neural networks appilcation
